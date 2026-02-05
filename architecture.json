@@ -1,0 +1,160 @@
+{
+  "book_id": "african_independence_urban_realism_individual_collective",
+  "title": "The City's Appointment",
+  "tagline": "In the relentless heart of Lagos, one young man must choose between the promise of independence and the pull of collective survival.",
+  "target_words": 70000,
+  "actual_words": 71250,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "The Illusion of Individual Success in a Collective Struggle",
+    "Post-Colonial Identity in the Urban Crucible",
+    "The Moral Economics of Survival",
+    "History as Burden vs. History as Blueprint"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The Lagos Catechism",
+      "words": 2960
+    },
+    {
+      "ch": 2,
+      "title": "The Anchor's Expectation",
+      "words": 2950
+    },
+    {
+      "ch": 3,
+      "title": "The Face-Me-I-Face-You",
+      "words": 2950
+    },
+    {
+      "ch": 4,
+      "title": "The Sound Engineer's Frequency",
+      "words": 2950
+    },
+    {
+      "ch": 5,
+      "title": "The Seven Keys",
+      "words": 2950
+    },
+    {
+      "ch": 6,
+      "title": "Obalende's Grinding Heart",
+      "words": 2950
+    },
+    {
+      "ch": 7,
+      "title": "The Legal Tomb",
+      "words": 2950
+    },
+    {
+      "ch": 8,
+      "title": "A Test Revealed",
+      "words": 2950
+    },
+    {
+      "ch": 9,
+      "title": "The Cart in the Flood",
+      "words": 2950
+    },
+    {
+      "ch": 10,
+      "title": "The Sleeping Snake",
+      "words": 2950
+    },
+    {
+      "ch": 11,
+      "title": "The Argument Under the Umbrella",
+      "words": 2950
+    },
+    {
+      "ch": 12,
+      "title": "The Whistle with No Effect",
+      "words": 2950
+    },
+    {
+      "ch": 13,
+      "title": "The Informal Economy",
+      "words": 2950
+    },
+    {
+      "ch": 14,
+      "title": "Principles and Modest Means",
+      "words": 2950
+    },
+    {
+      "ch": 15,
+      "title": "The Frayed Collar",
+      "words": 2950
+    },
+    {
+      "ch": 16,
+      "title": "The Road Block",
+      "words": 2950
+    },
+    {
+      "ch": 17,
+      "title": "The Choice to Swim",
+      "words": 2950
+    },
+    {
+      "ch": 18,
+      "title": "The Promise of Warmth",
+      "words": 2950
+    },
+    {
+      "ch": 19,
+      "title": "The Outdated Pose",
+      "words": 2950
+    },
+    {
+      "ch": 20,
+      "title": "The Frigid Tomb",
+      "words": 2950
+    },
+    {
+      "ch": 21,
+      "title": "The Manual of the City",
+      "words": 2950
+    },
+    {
+      "ch": 22,
+      "title": "The Monument to Success",
+      "words": 2950
+    },
+    {
+      "ch": 23,
+      "title": "The Confident Border",
+      "words": 2950
+    },
+    {
+      "ch": 24,
+      "title": "The Real Nigeria",
+      "words": 2970
+    }
+  ],
+  "entry_points": {
+    "story": [
+      "Write a chapter from the perspective of the bus conductor, detailing his 'theology' of the city and the passengers he sees as souls in transit.",
+      "Create a short story about the two women arguing under the umbrella. What debt or betrayal are they settling, and what history do they share?",
+      "Draft a monologue from Uncle Femi's past: a key moment that shaped his view of law, success, and his duty to family.",
+      "Write a letter from Kola's father in Abeokuta to Uncle Femi, expressing his hopes and fears for his son in Lagos, revealing the generational tensions."
+    ],
+    "technical": [
+      "Build an interactive map of Kola's journey from Surulere to Obalende, annotating locations with sensory details (smells, sounds, textures) from the text.",
+      "Create a 'Lagos Catechism' generator that produces dialogue based on the novel's themes: a web tool that randomizes questions like 'You dey go where?' and 'You get business?' with context-appropriate responses."
+    ]
+  },
+  "origin": {
+    "methodology": "Council-Prism Generation",
+    "sasi_score": 8,
+    "council": [
+      "Chinua Achebe",
+      "Frantz Fanon",
+      "Ursula K. Le Guin",
+      "James Baldwin"
+    ]
+  },
+  "cover_prompt": "A young man stands at a crossroads, his back to a vibrant but decaying modern cityscape, his face turned towards a vast, intricate mural depicting historical figures of liberation, his expression torn between determination and profound doubt, [Detailed Scene & Context: set in a bustling Lagos junction at dusk, where sleek glass towers overlook crowded markets and faded colonial-era buildings, the air thick with humidity and the golden haze of pollution, market stalls spill over with goods, danfo buses blur past, and the faces of the crowd reflect a spectrum of hope and exhaustion], [Artistic Style & Medium: in the atmospheric style of Kehinde Wiley's portraiture meets the textured urban realism of Andrew Dosunmu's cinematography, photorealistic oil painting with hyper-detailed textures of fabric, skin, and weathered concrete], [Composition & Camera: book cover framing, a centered, layered composition where the subject is in sharp focus in the foreground, the mural is mid-frame, and the sprawling city forms the background, a low-angle shot that gives the figure a monumental yet isolated presence], [Lighting & Color Palette: dramatic chiaroscuro lighting with a single golden hour light source cutting through the haze, casting long shadows and highlighting the tension in his posture, a palette of deep indigos, burnt oranges, sun-bleached yellows, and rich earthy umbers, punctuated by the vibrant accents of Ankara fabrics and neon signs], masterpiece, best quality, ultra detailed, intricate details, professional composition, sharp focus, 8k resolution, flux dev."
+}
