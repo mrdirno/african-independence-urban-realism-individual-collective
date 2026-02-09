@@ -1,6 +1,9 @@
+# Chapter 1
+
 ## **CHAPTER 1**
 
-The rain came down like it was trying to wash the whole of Lagos into the Atlantic. It wasn’t the gentle, forgiving kind. It was a biblical, sideways lash that turned the potholes on Ogunlana Drive into treacherous, oil-slicked lakes. Inside the *danfo* bus, we were packed tighter than stockfish in a market woman’s basket. The metallic smell of wet bodies and the sweet-rot stench of *agbo* herbal tonic fought for dominion. My shoulder was wedged against the window, a cold sweat of condensation seeping through my shirt. The bus conductor, a wiry man with eyes that missed nothing, hung from the open door, one foot on the step, yelling destinations into the storm.
+Mama Ngozi's plantain stand stood at the exact point where Independence Avenue met Memory Lane, her charcoal grill sending up smoke signals that said "business as usual" while the city council debated renaming the street outside her stall. Her hands moved with the rhythm of decades—turning plantains, collecting coins, shooing flies—while her eyes tracked the university students marching past with signs about reparations and the old men playing draughts who remembered when the street was called King George Road. The neon sign above the pharmacy across the street flickered between "OPEN" and "OPE," casting a sickly green light on the taxi drivers arguing about fuel prices and the young woman in a corporate blazer staring at her phone, waiting for a ride-share that would take her to a glass tower where she'd translate colonial-era documents into digital assets. Mama Ngozi's plantains sizzled in palm oil that had seen three regimes change hands. Each customer who bought one carried away not just food but a piece of the intersection: the student got fuel for the protest, the draughts player got something to chew while remembering, the corporate woman got a taste of something that couldn't be digitized. The stand was a fixed point in a city trying to decide what it wanted to become.
+
 
 “Obalende! Obalende straight! Enter quick, make I no hear story!”
 
@@ -117,6 +120,8 @@ I had a head full of dead empires and living chaos. I had two feet, wet socks, a
 [Chapter 1 Word Count: 2,498]
 
 ---
+# Chapter 2
+
 ## **CHAPTER 2**
 
 Tunde’s music was a physical presence in our room, a thrumming in the concrete floor you felt in your teeth. It wasn’t music you listened to; you survived it. A layered, pulsating beast of synth waves, sampled *bata* drums, and the distorted wail of a talking drum run through something called a granular processor. He called it “Post-Oriki.” I called it a headache with a beat.
@@ -289,6 +294,8 @@ I would go to Ibadan. I would do Uncle Femi’s work. I would earn his envelope.
 [Chapter 2 Word Count: 2,502]
 
 ---
+# Chapter 3
+
 ## **CHAPTER 3**
 
 The bus to Ibadan was a relic, a dusty blue coffin on wheels that smelled of heated vinyl and hope. I got a window seat, the contract and the file both now stored in a new, slightly more respectable canvas satchel I’d bought at the motor park with Uncle Femi’s money. It felt like a prop, but holding it made me feel less like a student and more like a man on a mission, however undefined.
